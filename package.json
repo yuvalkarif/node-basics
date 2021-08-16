@@ -1,0 +1,22 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "learning the basics of node by routing diffrent html pages by the URL request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvalkarif3/node-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvalkarif3/node-basics/issues"
+  },
+  "homepage": "https://github.com/yuvalkarif3/node-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
