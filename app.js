@@ -7,6 +7,7 @@ app.get('/',(req,res)=>{
 });
 
 app.use('/about',express.static('./about.html'))
+app.use('/about',express.static('./about.html'))
 
 app.listen(port,()=>{
     console.log(`port${port} is active`)
